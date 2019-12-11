@@ -1,10 +1,10 @@
-# PDAProject2019
+# PDAProject2019 - Motor Cycle and Weather Data
 
 This repository contains my submission for the Programmimg for Data Analysis project 2019.
 
 The submission is a jupyter notebook, which can be downloaded and run on any machine that has jupyter lab or notebook installed.
 
-## Motor Cycle and Weather Data
+
 
 ***
 ## Installation of Jupyter Notebook [1]
