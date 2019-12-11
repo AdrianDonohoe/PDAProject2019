@@ -1,4 +1,4 @@
-# PDAProject2019 - Motor Cycle and Weather Data
+# PDA Project 2019 - Motor Cycle and Weather Data
 
 This repository contains my submission for the Programmimg for Data Analysis project 2019.
 
